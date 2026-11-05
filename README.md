@@ -1,15 +1,8 @@
-# Jak hostovat web přes GitHub Pages?
+# Použití AI a zdroje
+AI jsem používal hlavně na vysvětlování věcí podrobně, trochu code-review ale ne na přímo psaní kódu.
+Na psaní kódu jsem ho použil pouze v hodinách s vaším povolením při troubleshootingu.
+Většina textu je AI generovaná.
 
-1. Přihlaš se na svůj GitHub účet.
+Všechny obrázky jsou z Google Images.
 
-2. Otevři [vzorový repozitář](https://github.com/chlubna25/jak_hostovat). Klikni na **Fork**, změň název repozitáře a potvrď **Create fork**.
 
-3. Ve svém repozitáři klikni na **+**, zvol **Upload files** a nahraj své soubory webu.
-
-4. Otevři **Settings → Pages**. U položky **Source** vyber **Deploy from a branch**. Nastav `main`, `/(root)` a klikni na **Save**.
-
-5. Za pár minut najdeš web na adrese:
-
-   `https://TVUJ-UCET.github.io/NÁZEV-REPA/`
-
-**Pozor:** Pro bezplatné GitHub Pages musí být repozitář veřejný (**Public**).
